@@ -2,6 +2,8 @@
 
 **Due - 24 March 2015**
 
+Please see the included PDFs for assignment description and Rubric
+
 Helpful Links
 
 * [Apple's Swift Control Flow](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html)
