@@ -1,6 +1,6 @@
 # Assignment 2
 
-*Due - 24 March 2015*
+**Due - 24 March 2015**
 
 Helpful Links
 
